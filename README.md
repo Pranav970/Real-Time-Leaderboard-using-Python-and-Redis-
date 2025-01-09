@@ -4,9 +4,8 @@ This project is a full-stack application with a **Python-based backend** using *
 
 ## Key Features
 
-### Backend (Python/FastAPI): ![MakeItFastRachelSmithGIF](https://github.com/user-attachments/assets/9a0eea30-c331-4327-98d5-e7dfe6d9fddb)
-
-
+### Backend (Python/FastAPI): 
+ 
 - **User Authentication**:
   - Uses **JWT** for secure user authentication.
 - **SQLite Database**:
@@ -74,6 +73,11 @@ npm run dev
 ```
 
 
+![Uploading MakeItFastRachelSmithGIF (2).gif…]()
+
+
+
+    
 ### Key Changes:
 - The backend uses **FastAPI** and **SQLite** for user authentication and data storage.
 - JWT-based authentication is implemented.
