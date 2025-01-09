@@ -73,3 +73,10 @@ npm run dev
 ```
 
 
+### Key Changes:
+- The backend uses **FastAPI** and **SQLite** for user authentication and data storage.
+- JWT-based authentication is implemented.
+- Redis is used for leaderboard management and real-time score updates.
+- The **React** frontend communicates with the backend through a newly created API client.
+
+
