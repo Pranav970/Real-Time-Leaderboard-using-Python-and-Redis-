@@ -6,7 +6,7 @@ This project is a full-stack application with a **Python-based backend** using *
 
 ### Backend (Python/FastAPI): 
  
-- **User Authentication**:
+- **User Authentication**: 
   - Uses **JWT** for secure user authentication.
 - **SQLite Database**:
   - Stores user data and scores in a local SQLite database.
@@ -44,7 +44,7 @@ For production environments, consider the following recommendations:
 - **Input Validation**: Ensure all user inputs are validated properly before processing.
 - **CORS Configuration**: Set up appropriate CORS configuration to allow safe cross-origin requests.
 
-## Running the Project
+## Running the Project 🧐
 
 ### Step 1: Start Redis using Docker
 
