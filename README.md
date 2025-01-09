@@ -1,6 +1,7 @@
 # FastAPI Backend with React Frontend 🚀 
 
 This project is a full-stack application with a **Python-based backend** using **FastAPI** and a **React frontend**. The backend provides **JWT-based authentication**, uses an **SQLite** database for storage, and exposes RESTful API endpoints for managing user data and scores. The frontend communicates with the backend via an API client and integrates with existing React components.
+
 To understand the problem statement you can visit :- https://roadmap.sh/projects/realtime-leaderboard-system
 
 ## Key Features
