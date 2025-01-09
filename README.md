@@ -52,3 +52,24 @@ Ensure that you have **Docker** installed. Start Redis by running:
 
 ```bash
 docker-compose up -d
+```
+
+### Step 2: Install Python dependencies: 
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 3: Start the Python backend:
+
+  ```bash
+python -m api.main
+```
+
+### Step 4: Start the React frontend:
+
+```bash
+npm run dev
+```
+
+
