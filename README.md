@@ -71,14 +71,14 @@ python -m api.main
 ```bash
 npm run dev
 ```
-
-
-![Uploading MakeItFastRachelSmithGIF (2).gif…]()
-
-
-
-    
+   
 ### Key Changes:
+
+![MakeItFastRachelSmithGIF](https://github.com/user-attachments/assets/9338068e-e1c5-4197-94b7-4694524f3ee9)
+
+
+
+
 - The backend uses **FastAPI** and **SQLite** for user authentication and data storage.
 - JWT-based authentication is implemented.
 - Redis is used for leaderboard management and real-time score updates.
